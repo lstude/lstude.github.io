@@ -1,7 +1,7 @@
 /* Homepage */
 
 body {
-	background: #eee;
+	background: #5F717F;
 	margin: 0 auto;
 	width: 60%;
 	font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +14,7 @@ h1 {
 }
 
 h1, h2, h3, h4, h5 {
-	color: #4e346c;
+	color: #CB687C;
 }
 
 /* Links */
@@ -37,16 +37,16 @@ a:focus, a:hover {
 }
 
 .nav a {
-	background: #57b5d6;
+	background: #F4E9CD;
 	padding: 10px;
-	color: #fff;
+	color: #FFB684;
 	display: inline-block;
 	border-radius: 5px;
 	margin-right: 10px;
 }
 
 .nav a:hover {
-	background: #9eca69;
+	background: #CB687C;
 }
 
 
