@@ -81,6 +81,11 @@ a:focus, a:hover {
 	border: 2px dashed #226fbe;
 }
 
+.btn-6d:hover {
+	background: transparent;
+	color: #226fbe;
+}
+
 .btn:after {
 	content: '';
 	position: absolute;
