@@ -49,18 +49,6 @@ a:focus, a:hover {
 	background: #5F717F;
 }
 
-.btn-6d {
-	border: 2px dashed #226fbe;
-}
-
-.btn-6 {
-	color: #fff;
-	background: #226fbe;
-	-webkit-transition: none;
-	-moz-transition: none;
-	transition: none;
-}
-
 .btn {
 	border: none;
 	font-family: inherit;
@@ -79,6 +67,18 @@ a:focus, a:hover {
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
+}
+
+.btn-6 {
+	color: #fff;
+	background: #226fbe;
+	-webkit-transition: none;
+	-moz-transition: none;
+	transition: none;
+}
+
+.btn-6d {
+	border: 2px dashed #226fbe;
 }
 
 .btn:after {
