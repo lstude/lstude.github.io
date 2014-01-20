@@ -164,3 +164,7 @@ h4 {
 	padding: 10px 40px 20px;
 	margin: 40px 0;
 }
+
+.bold {
+	font-weight: bold;
+}
