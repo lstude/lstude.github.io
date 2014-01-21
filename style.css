@@ -73,6 +73,7 @@ a:focus, a:hover {
 
 .btn-6d {
 	border: 2px dashed #F4E9CD;
+	border-radius: 5px;
 }
 
 .btn-6d:hover {
