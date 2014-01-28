@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "579 Days of Confronting My Fears"
+date:   2014-01-23 18:59:45
+categories: jekyll update
+---
+
+It's been 579 days since Ive had a full-time job.
+
+That is a frightening number to most people, but for me, the past 579 days have been absolutely amazing. And no, not because I wasn't working. Quite the opposite, actually. For the past 579 days, 13,896 hours, 833,760 minutes and 50,025,600 seconds, I've worked harder than I ever have in my entire life. I've taken more risks and learned more new skills than I did in 4 years of college and 5 years in the “real world.” In just 579 short days, I've quit my job, moved to Chicago to learn Ruby on Rails at The Starter League, failed at my startup, made a rather popular video about pooping in the woods, moved to Austin, acquired 3 internships as a developer, worked as a lean startup consultant and helped bring RailsGirlsto Austin. Thrusting myself into this world of uncertainty has allowed for an incredible amount of personal discovery, self-directed learning and yes, even discomfort. I've learned everything from programming to patent law and personal finance to persona creation. I've been let down and I've been lifted up. I've worried about money and made ends meet. I've sacrificed and I've gained. I've found my path.
+      
+
+Whenever I speak with someone about the past 579 days, I'm often met with reactions like, “I wish I could quit my job and do that” or “wow, I'm so jealous!” When I ask them why they don't just take the leap, I hear “I don’t have the time/skills/money”. Ah, yes. I remember saying such things myself. Leaving stability and comfort for a life of complete uncertainty defies basic logic and reason. Everyone has their own path, but at some point you have to ask yourself if “comfort” has become a euphemism for boredom and complacency. Was I scared? No, I was terrified. But the thought of looking back on my life 50 years from now and feeling like I didn't at least TRY was far scarier than the thought of going on the Ramen diet or working at Best Buy to make some extra cashish. The fact is, fear is a bully and no one is immune to its taunting, teasing ways. We all have fears but in order to quit our jobs and make it through 579 days (or more), we must force ourselves to confront them head-on. Because in a weird way, the things we fear most become our motivation and open doors that otherwise may have remained closed.
+      
+
+I spent so much time fearing that things wouldn’t work, I never stopped to think about what would happen if they did.
+
+      
+I spent 6 months banging my head against the wall doing back-end development, even though deep down, I knew I didn’t like it that much. I feared that giving up would mean my 579 days were all for naught and that I'd be quitting just because it was difficult. I didn’t realize it at the time, but my fear of quitting or “never being good” fostered perseverance, which led me to discover other skills and interests. The programming community. Software apprenticeships. Mentoring beginners. Front-end development. Lean Startup principles. I stubbornly clawed and fought this fear for so long and yet, as I reflect back on the past 579 days, I realize that I stumbled upon happiness. True, fulfilling, rays-of-sunshine freakin' happiness. I may never be a back-end developer, but that’s perfectly okay. I’ve learned so many other amazing things just by trying to be a back-end developer and I wouldn't trade the long hours, tears and frustration for anything.
+
+
+Don’t let fear dictate what you DON&#39;T do, instead, let it dictate what you do next. Because you never know where it will lead you. Tweet this
+
+
+As added proof that confronting your fears can lead to new and exciting things, I'm pee-my-pants happy to announce that I accepted a position as a Testing &amp; Optimization Manager at a stellar digital optimization and data analytics startup by the name of Clearhead. I'll be doing a little bit of everything – front-end development, design, lean user testing, writing and even social media. Talk about a great gig! And to think, it never would have been possible if not for the past 579 days.
+
+
+As a footnote, I couldn't have done this without all the encouragement and support from awesome family, friends and strangers who became my friends along the way. To those people, thank you from the bottom of my heart for taking me under your wing, out to lunch and along on your journeys. You know who you are and I am extremely grateful.
+

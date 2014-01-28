@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "How to Cold Email and Get a Response"
+date:   2014-01-22 18:59:45
+categories: jekyll update
+---
+
+	
+I&#39;ve been passively looking for jobs lately, and while I mostly navigate the murky employment waters with the help of personal connections, I do send the occasional &#8220;cold email.&#8221; I know this is common practice for many folks these days, so I hope that <span class="bold">by the end of this post, you&#8217;ll have some takeaways on cold emailing and how to be successful at it.</span>
+
+
+When I was looking for jobs coming out of college, I can&#39;t tell you how many &#8220;Dear Sir/Madam&#8221; style emails and cover letters I sent. An embarrassingly high number, I&#39;m sure. And day after day, awful cover letter after awful cover letter, I sat there wondering why no one replied. I finally got a job (through a connection, mind you) and was on my way up in the world. A year later, the economy tanked and I found myself laid off and back on the job hunt. A short stint nannying lit a fire under me and I was sending out at <em>least</em> 8-10 applications per week. Then, one day I ran across a job listing on Craigslist. I was skeptical but the post was written in a fun, engaging way that encouraged me to take a risk and use a similar tone in my reply.
+
+
+<span class="bold"><em>A week or two later, I started the job. I haven&#39;t written a &#8220;Dear Sir/Madam&#8221; since.</em></span>
+
+
+In fact, I still have that email somewhere. And whether I&#39;m emailing someone about a job, a coffee or an introduction, I always try to remember these key things:
+
+
+<ul>
+<li>
+Use a subject line that makes people so curious to read your email that they <em>have</em> to open it the <em>second</em> they see it. I once had a Southwest Airlines flight attendant come on the intercom and say, &#8220;Did anyone lose this?&#8221; <span class="bold">Every single person</span> on that plane looked up and she began the safety demo. Be that Southwest flight attendant in your subject line.
+</li>
+</ul>
+
+<ul>
+<li>
+Do not lead with &#8220;Dear sir/madam.&#8221; This isn&#39;t the 1800&#39;s. If you don&#39;t know the person&#39;s name, start with something more jovial and friendly like, <em>&#8220;Hi there!&#8221;</em> Or, even better, do some research and find out their name!
+</li>
+</ul>
+
+<ul>
+<li>
+A cold email is like a good suit &#8211; it needs to be tailored! <em>(Yes, I went there)</em> I know it takes extra time, and yes it&#39;s a total pain when you&#39;re unemployed and all you want to do is sit on your couch with a beer watching Friends reruns at 10am. But by citing specific examples about how your skills fit with the company&#39;s needs, you instantly make your email 10x more likely to end up in the &#8220;yes&#8221; pile versus the trash. <em>Email hack: Use a tool like <a title="TextExpander" href="http://smilesoftware.com/TextExpander/index.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://smilesoftware.com']);" target="_blank">TextExpander</a> to fill in the pieces you CAN make more form-like. It&#39;s worth every penny. Seriously. I could have typed this whole blog post 16 times in 5 minutes by using the shortcut :ceb in TextExpander.</em>
+</li>
+</ul>
+
+<ul>
+<li>
+Watch a <a title="Jim Gaffigan - Hot Pockets" href="http://www.youtube.com/watch?v=N-i9GXbptog" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.youtube.com']);" target="_blank">YouTube video of a comedian</a> or <a title="Kid President" href="http://www.youtube.com/watch?v=l-gQLqv9f4o" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.youtube.com']);" target="_blank">someone who inspires you</a> right before you write your email. It will put you in a similar frame of mind and your personality will come across more genuinely. Let&#39;s face it, no one looks forward to applying for jobs and we usually have to force ourselves to do it. But when our &#8220;this sucks&#8221; attitude is reflected in our writing, our stuff isn&#39;t especially exciting for the receiving party to read.
+</li>
+</ul>
+
+<ul>
+<li>
+Know your audience. I work in tech, so I&#39;m fortunate that no matter how wacky, creepy or weird I come across, it is usually well-received. Either that or people think I&#39;m like a rare species at the zoo and they just have to see for themselves if it&#39;s possible for one person to be so strange. But the point is, I know my audience and tailor my email&#8217;s &#8220;voice&#8221; accordingly. If you wanted a job at a law firm, you&#39;d probably have to scale it back a bit. But just because you&#39;re applying for a more &#8220;conservative&#8221; job, doesn&#39;t mean you have to be a snooze-a-saurus. Include some personal information in there, just like you would if you were talking face-to-face. People would think you were a douche if you went up to random strangers and led with <em>&#8220;Hi, I&#39;m Laura and I graduated magna cum laude (ha!) and was a patent attorney at Banks &amp; Banks from 2002-2012 where I won one of the biggest cases&#8230;.&#8221;</em> you get the idea. Leave that to your resume and be a little personable. Even if it means one or two sentences like, <em>&#8220;In my free time, I like to read my many leather-bound books, play tennis and try new recipes for my gourmet club.&#8221;</em> (I imagine lawyers do these things, no?) You never know when those personal interests will resonate with the hiring manager, CEO or somehow overlap with the job. Any edge you can get will help!
+</li>
+</ul>
+
+
+
+
+<em>My final word of advice is to recruiters/HR people and that is: What type of resumes do you want to read? If you find that you&#39;re receiving a lot of &#8220;Dear sir/madam&#8221; robot emails, revisit your job posting and edit it. Infuse some personality into it and you&#39;ll likely get more interesting replies and qualified candidates who will fit with the job AND the culture at your company.</em>
+
