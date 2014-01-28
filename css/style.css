@@ -36,15 +36,19 @@ a:focus, a:hover {
 	margin-top: 20px;
 }
 
-.nav a {
+.nav-content {
+	width:960px;
+}
+
+/*.nav a {
 	color: #FFB684;
 	display: inline-block;
 	border-radius: 5px;
 	margin-right: 10px;
-}
+}*/
 
 
-.btn {
+li.btn {
 	border: none;
 	font-family: inherit;
 	font-size: inherit;
@@ -63,7 +67,7 @@ a:focus, a:hover {
 	transition: all 0.3s;
 }
 
-.btn-6 {
+li.btn-6 {
 	color: #CB687C;
 	background: #F4E9CD;
 	-webkit-transition: none;
@@ -71,18 +75,18 @@ a:focus, a:hover {
 	transition: none;
 }
 
-.btn-6d {
+li.btn-6d {
 	border: 2px dashed #F4E9CD;
 	border-radius: 5px;
 }
 
-.btn-6d:hover {
+li.btn-6d:hover {
 	background: transparent;
 	color: #F4E9CD;
 	border-radius: 5px;
 }
 
-.btn:after {
+li.btn:after {
 	content: '';
 	position: absolute;
 	z-index: -1;
@@ -97,6 +101,35 @@ a:focus, a:hover {
 	box-sizing: border-box;
 }
 
+#header {
+	position: relative;
+	background: url("//cdn.shopify.com/s/files/1/0056/9682/t/3/assets/bg_div.gif?7543") repeat-x bottom left;
+	height: 126px;
+}
+
+#header a.laurastude {
+	background: url("//cdn.shopify.com/s/files/1/0056/9682/t/3/assets/logo.gif?7543") no-repeat top left;
+	position: absolute;
+	display: block;
+	width: 160px;
+	height: 71px;
+	top: 12px;
+	left: 409px;
+	text-indent: -9999px;
+	overflow: hidden;
+}
+
+#header ul.left {
+	text-transform: uppercase;
+	width: 342px;
+	float: left;
+	padding: 39px 0 0 0;
+}
+
+#header ul.right {
+	float: right;
+	padding: 39px 0 0 0;
+}
 
 
 
