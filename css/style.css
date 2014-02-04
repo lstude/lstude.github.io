@@ -22,6 +22,7 @@ h1, h2, h3, h4, h5 {
 a, a:active, a:visited {
 	color: #57b5d6;
 	text-decoration: none;
+	text-align: center;
 }
 
 a:focus, a:hover {
@@ -109,26 +110,29 @@ li.btn:after {
 
 #header a.laurastude {
 	background: url("//cdn.shopify.com/s/files/1/0056/9682/t/3/assets/logo.gif?7543") no-repeat top left;
-	position: absolute;
 	display: block;
 	width: 160px;
 	height: 71px;
-	top: 12px;
-	left: 409px;
 	text-indent: -9999px;
 	overflow: hidden;
 }
 
-#header ul.left {
-	text-transform: uppercase;
-	width: 342px;
-	float: left;
-	padding: 39px 0 0 0;
+#header li {
+	width: 13%;
+	display: inline-block;
 }
 
-#header ul.right {
-	float: right;
-	padding: 39px 0 0 0;
+#header ul.nav {
+	text-transform: uppercase;
+}
+
+#logo {
+	width: 38%;
+display: inline-block;
+}
+
+#logo a {
+	margin: 0 auto;
 }
 
 
